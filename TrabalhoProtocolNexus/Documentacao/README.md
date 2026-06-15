@@ -46,13 +46,3 @@ O projeto foi desenvolvido para que todo o seu conteúdo seja gerado de forma au
    `Protocol Nexus -> 6 - GERAR O JOGO COMPLETO (FINAL)`
 4. Aguarde a mensagem de sucesso no Console. O script fará o fatiamento (slice) automático das spritesheets, construirá os prefabs e gerará as cenas proceduralmente.
 5. Abra a pasta `Assets/Scenes`, carregue a cena `Nivel1` e pressione o botão **Play**.
-
----
-
-## Estrutura do Repositório (Conforme Exigência)
-
-- `/Assets/Scripts/`: Códigos-fonte organizados (C#). Destaque para `LevelGenerator.cs` (geração de fases) e `SpriteAnimator.cs` (máquina de animação).
-- `/Assets/Sprites/`: Sprites de cenários, inimigos e jogador.
-- `/Assets/Audio/`: Trilha sonora e efeitos sonoros (SFX).
-- `creditos_e_licencas.md`: Arquivo declaratório contendo os devidos créditos aos assets visuais retirados do Itch.io.
-- `Prints/`: Capturas de tela (screenshots) das telas e níveis.

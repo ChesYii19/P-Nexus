@@ -1,0 +1,27 @@
+NEON DISTRICT — FREE STARTER KIT
+Technical Metadata
+==================================
+
+ASSET SIZES
+-----------
+  Tiles          : 16 x 16 px
+  UI Components  : 32 x 32 px
+  NPC Frames     : 32 x 48 px  (spritesheet: 96 x 192 px)
+  NPC Grid       : 3 columns (frames) x 4 rows (directions)
+  Directions     : Row 0 = South  |  Row 1 = West
+                   Row 2 = East   |  Row 3 = North
+  Walk Cycle     : F0 = Idle  |  F1 = Step Left  |  F2 = Step Right
+
+ENGINE SETTINGS
+---------------
+  Unity PPU      : 16
+  Filter Mode    : Point (No Filter)
+  Compression    : None
+  Texture Type   : Sprite (2D and UI)
+
+  Godot Settings : Import as 2D Pixel Art
+                   Filter: Nearest  |  Mipmaps: Off
+
+COLOUR PALETTE
+--------------
+  See neon-district-24.hex — or visit https://abk911lol.itch.io
